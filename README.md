@@ -1,6 +1,8 @@
 # 5610-Final-Project
 CS5610 Final Project: improve project 3 "Tire Online Store" by redesign and adding accessibility features
 
+Attention: previous repo used for this project is broken, so we have to re-commit everything to this one all at once.
+
 Author: Xinyuan Huang & YueWu
 
 Email:
