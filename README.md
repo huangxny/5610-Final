@@ -13,9 +13,11 @@ Deployed Link:
 
 Video: 
 
-Slide: 
+Slide: https://docs.google.com/presentation/d/11a3gtX2SWbCqzLezvHEisC5Xlg7ioQF0n0wWUvBa72Y/edit?usp=sharing
 
-Design Doc: 
+Design Doc: https://docs.google.com/document/d/1WEvEFSVF9fjuhchtjXFVyI-_VjicYXsqgTpPSRu9pBI/edit?usp=sharing
+
+Usability Report: https://docs.google.com/document/d/1Keps4yqnHFTCmVLzyL02WQxvg377vYxzHQfXTtxN8RQ/edit?usp=sharing
 
 # Project Objective:
 Learn and practice web design and accessibility
@@ -42,15 +44,10 @@ NPM: Package manager for NodeJS
 5. Supply your own .env file containing MongoDB_URI to the root folder
 6. $ cd .. go back to root folder
 7. Use $ npm start to start the server
-8. Open the browser and go to localhost:3000 to view the website
+8. Open the browser and go to localhost:4000 to view the website
 
 Screenshot:
-- Login & Logout
-  
-- Signup
-  
-- Cart & Add Tire & Sort
-  
-- Multiple Page
+![image](https://github.com/huangxny/5610-Final/assets/122572615/9af3645e-31f9-4f36-a206-8beef32eda59)
+
   
 
