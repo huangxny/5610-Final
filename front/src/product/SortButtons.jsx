@@ -14,7 +14,7 @@ const SortButtons = ({ setSortOption, setSortDirection, sortDirection }) => {
             prevDirection === "asc" ? "desc" : "asc",
           )
         }
-        style={{ backgroundColor: "gray" }}
+        style={{ backgroundColor: "darkgreen" }}
       >
         {sortDirection === "asc"
           ? "↓ Descending Order ↓"
