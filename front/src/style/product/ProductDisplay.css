@@ -1,0 +1,18 @@
+.gridContainer {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 30px 0 0;
+}
+.gridContainer li {
+  list-style-type: none;
+  width: 30%;
+  border: 1px solid #bebebe;
+  padding: 15px 7px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+.gridContainer li p:first-child {
+  margin-top: 0;
+}

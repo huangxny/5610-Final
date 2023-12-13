@@ -1,0 +1,19 @@
+.gridContainer {
+  margin-bottom: 20px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  max-height: calc(100vh - 320px);
+}
+
+.item {
+  list-style: none;
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #d2d2d2;
+}
+
+.item img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+}

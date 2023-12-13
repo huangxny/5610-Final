@@ -1,0 +1,114 @@
+html {
+  max-width: 1400px;
+  min-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #dedede;
+  margin: 0;
+  padding: 0;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.container .container_content {
+  width: 78%;
+}
+.container .container_cart {
+  width: 20%;
+}
+.container .container_cart .top {
+  background-color: #ffffff;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 30px;
+}
+.container .container_cart .top > div {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+}
+.container .container_cart .CartPage_box {
+  background-color: #ffffff;
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.container .container_cart .CartPage_box .hideCart {
+  width: 100%;
+}
+.container .container_content .login_container {
+  /* background-color: #f9f9f9; */
+  width: 30%;
+}
+.container .container_content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container .container_content .store_container {
+  width: 68%;
+}
+
+.container .container_content .login_container .top {
+  background-color: #ffffff;
+  width: 100%;
+  height: 50px;
+}
+.container .container_content .login_container .router_t {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  background-color: #ffffff;
+}
+.container .container_content .login_container .login_box {
+  margin-top: 30px;
+  background-color: #ffffff;
+  padding: 10px;
+  min-height: 100px;
+}
+
+.container .container_content .login_container .router_t a {
+  display: block;
+  text-align: center;
+  line-height: 50px;
+  width: 33%;
+  height: 50px;
+  color: #3f3f3f;
+  font-size: 15px;
+  text-decoration: none;
+}
+.container .container_content .login_container .top a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 50px;
+  font-size: 19px;
+}
+.container .container_content .store_container .top h2 {
+  margin: 0;
+}
+.container .container_content .store_container .top {
+  background-color: #fff;
+  display: block;
+  width: 100%;
+  text-align: center;
+  line-height: 50px;
+  font-size: 19px;
+  margin-bottom: 30px;
+}
+.container .container_content .store_container .product {
+  background-color: #fff;
+  padding: 10px;
+}
