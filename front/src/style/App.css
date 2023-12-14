@@ -6,6 +6,7 @@ html {
   box-sizing: border-box;
 }
 
+// Did have more than two font families.
 body {
   font-family: Arial, sans-serif;
   background-color: #dedede;
