@@ -25,6 +25,8 @@ Usability Report: https://docs.google.com/document/d/1Keps4yqnHFTCmVLzyL02WQxvg3
 Learn and practice web design and accessibility
 Improve Tire Online Store based on results from user testing (usability report)
 
+# Color Palette and Font Selection?
+
 # Tech Requirement:
 Code Editor: such as Visual Studio Code
 
@@ -40,13 +42,14 @@ NPM: Package manager for NodeJS
 
 # Instruction to build:
 1. Download the project from github
-2. Run $ npm install on root folder
-3. $ cd front, then run $ npm install in front (react) folder
-4. Run $ npm run build in front (react) folder
-5. Supply your own .env file containing MongoDB_URI to the root folder
-6. $ cd .. go back to root folder
-7. Use $ npm start to start the server
-8. Open the browser and go to localhost:4000 to view the website
+2. npm install
+3. cd front
+4. npm install
+5. npm run build
+9. Supply your own .env file containing MongoDB_URI to the root folder
+10. cd ..
+11. npm start
+12. go to localhost: 4000
 
 Screenshot:
 ![image](https://github.com/huangxny/5610-Final/assets/122572615/9af3645e-31f9-4f36-a206-8beef32eda59)
